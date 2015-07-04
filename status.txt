@@ -1,1 +1,1 @@
-Vì đảm bảo tính bảo mật, mỗi ngày phải Active 1 lần.
+Nếu gặp lỗi, khởi động lại Tool 1-2 lần là được
